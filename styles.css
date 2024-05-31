@@ -27,6 +27,37 @@ h1 {
     top: 29%;
 }
 
+#work {
+    position: absolute;
+    left: 27%;
+    top: 10%;
+}
+
+#bulletpoints-1 {
+    position: absolute;
+    left: 12%;
+    top: 26%;
+    width: 70%;
+}
+
+#bulletpoints-2 {
+    position: absolute;
+    left: 12%;
+    top: 50%;
+    width: 70%;
+}
+
+#experience-title-1 {
+    position: absolute;
+    left: 33%;
+    top: 21%;
+}
+
+#experience-title-2 {
+    position: absolute;
+    left: 20%;
+    top: 45%;
+}
 
 
 /* classes */
@@ -46,12 +77,12 @@ h1 {
 /* placeholder background colours to work with */
 .left {
     left: 0;
-    background-color: #bedeff;
+    background-color: #a8dadc;
 }
 
 .right {
     right: 0;
-    background-color: grey;
+    background-color: #f1faee;
 }
 
 .lang {
@@ -77,3 +108,7 @@ h1 {
     left: 60%;
     top: 57%;
 }
+
+
+
+
